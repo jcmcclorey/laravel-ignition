@@ -1,7 +1,7 @@
 
 # Ignition: a beautiful error page for Laravel apps
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/laravel-ignition.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-ignition)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/astrodog/laravel-ignition.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-ignition)
 ![Tests](https://github.com/spatie/laravel-ignition/workflows/Run%20tests/badge.svg)
 [![PHPStan](https://github.com/spatie/laravel-ignition/actions/workflows/phpstan.yml/badge.svg)](https://github.com/spatie/laravel-ignition/actions/workflows/phpstan.yml)
 [![Total Downloads](https://img.shields.io/packagist/dt/spatie/laravel-ignition.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-ignition)
