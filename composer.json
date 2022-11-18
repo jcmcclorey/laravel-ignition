@@ -12,6 +12,11 @@
             "name": "Spatie",
             "email": "info@spatie.be",
             "role": "Developer"
+        },
+        {
+            "name": "Joe McClorey",
+            "email": "jcmcclorey@protonmail.com",
+            "role": "Developer"
         }
     ],
     "homepage": "https://flareapp.io/ignition",
